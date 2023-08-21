@@ -52,7 +52,7 @@ Stores with closer competitors sell more than stores with more distant competito
 
 Stores sell less on weekends.
 
-4.**Machine Learning Model Applied**
+4. **Machine Learning Model Applied**
 
 At this stage, 5 models were used for analysis: *Average - Baseline *Linear Regression *Lasso & Ridge Regression with GridsearchCV *Random Forest Regressor *XGBoost Regressor
 
@@ -71,7 +71,7 @@ At this stage, 5 models were used for analysis: *Average - Baseline *Linear Regr
 3) Decision Tree - 0.8684298156498995
 4) Random Forest - 0.9243612785431367
 
-7.**Business Results**
+7. **Business Results**
 
 Below is the six-week forecast.
 
