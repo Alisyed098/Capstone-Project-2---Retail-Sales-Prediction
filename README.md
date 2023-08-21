@@ -18,10 +18,12 @@ train.csv holds info about each store. store.csv holds the sales info per day fo
 
 The repo contains main.py that runs the main script from step one until the end.
 
-1. Business Problem.
+1. **Business Problem.**
+
 Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
 
-2. Solution Strategy
+3.** Solution Strategy**
+
 My strategy to solve this challenge was:
 
 Step 01: Data Description- Use statistics metrics to identify data distribuctions.
@@ -40,26 +42,32 @@ Step 07: Convert Model Performance to Business Values: Convert the performance o
 
 Step 08: Deploy Model to Production: Publish the model in a cloud environment so that other people or services can use the results to improve the business decision.
 
-3. Top 3 Data Insights
+3. **Top 3 Data Insights**
+   
 Stores with more assortments sell less.
 
 Stores with closer competitors sell more than stores with more distant competitors.
 
 Stores sell less on weekends.
 
-4. Machine Learning Model Applied
+4.** Machine Learning Model Applied**
+
 At this stage, 5 models were used for analysis: *Average - Baseline *Linear Regression *Lasso & Ridge Regression with GridsearchCV *Random Forest Regressor *XGBoost Regressor
 
-5. Machine Learning Model Performance
+5. **Machine Learning Model Performance**
+   
 Capture
 
-6. Business Results
+7.** Business Results**
+
 Below is the six-week forecast.
 
-Scenario Values
+**Scenario Values**
 
 predictions R$277,437,632.00
 worst_scenario R$276,572,719.87
 best_scenario R$278,302,519.21
-7. Conclusions
+
+7. **Conclusions**
+   
 The sales forecast and the generated insights provide the CEO with valuable tools to decide the amount of budget that is going to be dedicated to the restoration of each store
