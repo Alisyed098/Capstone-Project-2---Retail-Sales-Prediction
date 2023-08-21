@@ -71,7 +71,7 @@ At this stage, 5 models were used for analysis: *Average - Baseline *Linear Regr
 3) Decision Tree - 0.8684298156498995
 4) Random Forest - 0.9243612785431367
 
-7. **Business Results**
+6. **Business Results**
 
 Below is the six-week forecast.
 
