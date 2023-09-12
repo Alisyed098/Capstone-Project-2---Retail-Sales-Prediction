@@ -64,7 +64,7 @@ At this stage, 5 models were used for analysis: *Average - Baseline *Linear Regr
 2) Ridge regression with GridsearchCV - 0.7618943512135148
 3) Decision Tree - 0.7905058156140052
    
-- **Model 1(excluding sales = 0)**
+- **Model 2(including sales = 0)**
 1) Linear regression - 0.8676005583454534
 2) Lasso regression with GridsearchCV - 0.8676005930857998
 2) Ridge regression with GridsearchCV - 0.8676005928108987
